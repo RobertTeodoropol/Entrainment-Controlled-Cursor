@@ -26,4 +26,6 @@ A BlueSmurf RN-42 was used, as well was the OpenBCI cyton board. An arduino leon
    This sketch uses Biquad filter library, which was originally developed by: http://www.earlevel.com/main/2012/11/26/biquad-c-source-code/
    The method of calculating the Alpha power was adapted from Chip Audette's older method for the 8-bit board.: https://github.com/chipaudette/EEGHacker/blob/master/Arduino/OBCI_V2_AlphaDetector/
 	 
-	 Tip: To simulate real-life measurements, an OpenBCI input channel was put in a breadboard across the divide from a flashing LED. Although there should be no connection from this flashing LED to an input channel (due to it being on the other side of the divide), a small signal similar to a real-life measured value was detected using analogWrite(32);. This phenomena can be used to facilitate testing when a subject cannot be present. 
+<i>Tip</i>: To simulate real-life measurements, an OpenBCI input channel was put in a breadboard across the divide from a flashing LED. 
+Although there should be no connection from this flashing LED to an input channel (due to it being on the other side of the divide), a small signal similar to a real-life measured value was detected using analogWrite(32);.
+This phenomena can be used to facilitate testing when a subject cannot be present. 
