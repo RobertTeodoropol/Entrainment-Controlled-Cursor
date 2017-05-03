@@ -1,5 +1,5 @@
 # Entrainment-Controlled-Cursor
-Developed by Robert Teodoropol, group 7, capstone (2016-2017) for The Neil Squire Society http://www.neilsquire.ca/
+Developed by Robert Teodoropol, group 7, capstone (2016-2017) for The Neil Squire Society http://www.neilsquire.ca/ .
 The following is the code used for an entrainment controlled cursor developed by group 7 in their 2016-2017 capstone for the NeilSquireSociety.
 It was developed for the 32-bit OpenBCI cyton board in arduino 1.6.5. 
 All libraries used are included in the library folder, additionally, links to the original sources are provided in below Cursor.
