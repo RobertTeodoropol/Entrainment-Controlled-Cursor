@@ -1,7 +1,7 @@
 
 /*
  *
- *  Developed by Robert Teodoropol, group 7, capstone (2016-2017)
+ *  Developed by Robert Teodoropol, group 7, capstone (2016-2017) for The Neil Squire Society http://www.neilsquire.ca/
  *
  *   *** WHAT DOES IT DO ***
  *
